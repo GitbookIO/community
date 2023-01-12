@@ -15,6 +15,8 @@ body:
     attributes:
       label: What's your desired outcome?
       description: What do you want to achieve with this proposed idea?
+      value: |
+        What would you like to be able to do, if your idea came to life?
     validations:
       required: true
   - type: checkboxes
@@ -22,10 +24,10 @@ body:
       label: What's the impact of this for you?
       description: Some requests are critical to your workflow, but others might just be a nice-to-have. We'd want to know how will this impact your day-to-day work.
       options:
-        - Critical
-        - High
-        - Medium
-        - Low
+        - label: Critical
+        - label: High
+        - label: Medium
+        - label: Low
     validations:
       required: true
   - type: textarea
