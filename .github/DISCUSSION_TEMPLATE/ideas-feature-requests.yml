@@ -1,0 +1,34 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The more specific you are about your feature or idea, the better!
+  - type: textarea
+    attributes:
+      label: What's your feature/idea?
+      description: What do you want propose to GitBook?
+      value: |
+        Please describe here - in as much detail as you can - your idea.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What's your desired outcome?
+      description: What do you want to achieve with this proposed idea?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: What's the impact of this for you?
+      description: Some requests are critical to your workflow, but others might just be a nice-to-have. We'd want to know how will this impact your day-to-day work.
+      options:
+        - Critical
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: If you'd like to add anything else to your request, now is the time! Feel free to provide more context, or any other comments you'd like.
