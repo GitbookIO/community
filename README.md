@@ -1,13 +1,19 @@
 # GitBook Community
 
-We decided to create this space as we often receive great ideas, feedback or feature requests from you - our users, but so far we had no way of exposing this information to the wider community or allowing you to discuss it with fellow users (or our team).
-By launching this repository we hope to bridge the gap, allowing you to participate in shaping the direction and quality of the product while giving everyone greater visibility into the feedback we receive.
+<img alt="GitBok Community" src="./assets/banner.png" />
 
-You will see two Categories available:
+### Welcome to GitBook's official community!
 
-- [Announcements](https://github.com/GitbookIO/community/discussions/categories/announcements) - our team will be posting here about any updates, releases, and other news.
-- [Ideas-and-feature-requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) - this is where we welcome all product-related contributions! If you have a product idea or if there is a feature that you would like to see please share it here. You can also ⬆️ upvote ideas posted by others or interact in the comments.
-We are excited to kick off this journey with you!
+We've created this space to collect feedback, feature requests, great ideas, and more! We believe in building GitBook with **you**—and launching this repository allows us to bridge this gap, letting you to participate in shaping the direction and quality of our product while giving our community better visibility into the feedback we receive.
 
-_Disclaimer: Although we can't wait to hear your thoughts and you can expect engagement from us, please note that this is not a support channel. For bugs and issues, we strongly encourage you to contact support@gitbook.com as we will not be monitoring this space 24/7._
+This community is separated into different categories, to help us organize discussions between you, our community, and the GitBook team.
 
+| Category                                                                                                            | Description                                          |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [🔔 Announcements](https://github.com/GitbookIO/community/discussions/categories/announcements)                     | Product updates, releases, and other important news. |
+| [💡 Ideas & Feature Requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) | Feature requests and product ideas.                  |
+| [🏆 Showcase](https://github.com/GitbookIO/community/discussions/categories/showcase)                               | Have something to share? Show us here!               |
+
+If you'd like to learn more about the product, make sure to visit [our docs](https://docs.gitbook.com/).
+
+> Disclaimer: Please note that this is not our official support channel. If you encounter any bugs or issues, we strongly encourage you to contact [support@gitbook.com](mailto:support@gitbook.com).
