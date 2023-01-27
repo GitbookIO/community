@@ -11,6 +11,7 @@ This community is separated into different categories, to help us organize discu
 | Category                                                                                                            | Description                                          |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [🔔 Announcements](https://github.com/GitbookIO/community/discussions/categories/announcements)                     | Product updates, releases, and other important news. |
+| [💬 General](https://github.com/GitbookIO/community/discussions/categories/general)                                 | A place to chat all things GitBook.                  |
 | [💡 Ideas & Feature Requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) | Feature requests and product ideas.                  |
 | [🏆 Showcase](https://github.com/GitbookIO/community/discussions/categories/showcase)                               | Have something to share? Show us here!               |
 
