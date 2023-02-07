@@ -4,7 +4,7 @@ body:
       value: |
         > Please note that this discussion forum is to collect feedback and chat about GitBook and it's features. 
         >
-        > *If you're looking for support*, please send us an email to our [dedicated support inbox](mailto:support@gitbook.com), where we'll be able to help you the fastest!
+        > **If you're looking for support**, please send us an email to our [dedicated support inbox](mailto:support@gitbook.com), where we'll be able to help you the fastest!
   - type: textarea
     attributes:
       label: As a question, start a conversation, or make an annoucement
