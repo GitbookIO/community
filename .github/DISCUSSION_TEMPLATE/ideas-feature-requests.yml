@@ -2,7 +2,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for adding your ideas to GitBook! The more specific you are about your feature or idea, the better. Before submitting your idea, please search through our [existing feature requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) to see if your idea has already been submitted. Please be mindful and specific when submitting a request, but don't hesitate to let us know how much your feature would help you in your day-to-day. It's important for us to have all the context needed while exploring new product ideas!
+        Thanks for adding your ideas to GitBook! The more specific you are about your feature or idea, the better. Before submitting your idea, please search through our [existing feature requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) to see if your idea has already been submitted. 
+
+        Please be mindful and specific when submitting a request, but don't hesitate to let us know how much your feature would help you in your day-to-day. You can also add a label to further help us organize your feature request. It's important for us to have all the context needed while exploring new product ideas!
   - type: textarea
     attributes:
       label: What's your feature/idea?
