@@ -7,6 +7,6 @@ body:
         > **If you're looking for support**, please send us an email to our [dedicated support inbox](mailto:support@gitbook.com), where we'll be able to help you the fastest!
   - type: textarea
     attributes:
-      label: As a question, start a conversation, or make an annoucement
+      label: Ask a question, start a conversation, or make an annoucement
     validations:
       required: true
