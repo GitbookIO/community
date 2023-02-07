@@ -8,7 +8,6 @@ body:
   - type: textarea
     attributes:
       label: What's your feature/idea?
-      description: What do you want propose to GitBook?
       placeholder: |
         Please describe here - in as much detail as you can - your idea.
     validations:
@@ -16,7 +15,6 @@ body:
   - type: textarea
     attributes:
       label: What's your desired outcome?
-      description: What do you want to achieve with this proposed idea?
       placeholder: |
         What would you like to be able to do, if your idea came to life?
     validations:
