@@ -2,12 +2,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for adding your ideas to GitBook! The more specific you are about your feature or idea, the better. Before submitting your idea, please search through our [existing feature requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) to see if your idea has already been submitted. Please be mindful and specific when submitting a request, but don't hesitate to let us know how much your feature would help you in your day-to-day. It's important for us to have all the context needed while exploring new product ideas!
+        Thanks for adding your ideas to GitBook! The more specific you are about your feature or idea, the better. Before submitting your idea, please search through our [existing feature requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests) to see if your idea has already been submitted. 
+
+        Please be mindful and specific when submitting a request, but don't hesitate to let us know how much your feature would help you in your day-to-day. You can also add a label to further help us organize your feature request. It's important for us to have all the context needed while exploring new product ideas!
   - type: textarea
     attributes:
       label: What's your feature/idea?
       description: What do you want propose to GitBook?
-      value: |
+      placeholder: |
         Please describe here - in as much detail as you can - your idea.
     validations:
       required: true
@@ -15,7 +17,7 @@ body:
     attributes:
       label: What's your desired outcome?
       description: What do you want to achieve with this proposed idea?
-      value: |
+      placeholder: |
         What would you like to be able to do, if your idea came to life?
     validations:
       required: true
@@ -33,4 +35,4 @@ body:
   - type: textarea
     attributes:
       label: Anything else?
-      description: If you'd like to add anything else to your request, now is the time! Feel free to provide more context, or any other comments you'd like.
+      description: If you'd like to add anything else to your request, let us know! Feel free to provide more context, or any other comments you'd like.
