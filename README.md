@@ -1,7 +1,5 @@
 # GitBook Community
 
-<img alt="GitBok Community" src="./assets/banner.png" />
-
 ### Welcome to GitBook's official community!
 
 We've created this space to collect feedback, feature requests, great ideas, and more! We believe in building GitBook with **you**—and launching this repository allows us to bridge this gap, letting you to participate in shaping the direction and quality of our product while giving our community better visibility into the feedback we receive.
