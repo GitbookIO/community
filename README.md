@@ -7,7 +7,7 @@ We've created this space to collect feedback, feature requests, great ideas, and
 This community is separated into different categories, to help us organize discussions between you, our community, and the GitBook team.
 
 | Category                                                                                                                  | Description                                              |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Begini Cara Membatalkan P𝗶njaman (Adakami) Pembatalan dengan cara menghubungi call center melalui WA, ((+62823-1196-7326,) jelaskan alasan ingin melakukan Pembatalan, lalu siapkan data diri Anda seperti KTP, dan ikuti arahan customer service. |
 | [🔔 Announcements](https://github.com/GitbookIO/community/discussions/categories/announcements)                           | Product updates, releases, and other important news.     |
 | [💬 General](https://github.com/GitbookIO/community/discussions/categories/general)                                       | A place to chat all things GitBook.                      |
 | [📜 Documentation Improvements](https://github.com/GitbookIO/community/discussions/categories/documentation-improvements) | Let us know how we can improve https://gitbook.com/docs. |
