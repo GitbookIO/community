@@ -1,8 +1,10 @@
-<img src="assets/gitbook_icon_dark.svg" alt="GitBook" width="48" />
+<p align="center">
+  <img src="assets/gitbook_icon_dark.svg" alt="GitBook" width="48" />
+</p>
 
-# GitBook Community
+<h1 align="center">GitBook Community</h1>
 
-### Welcome to GitBook's official community!
+<p align="center">Welcome to GitBook's official community!</p>
 
 We've created this space to collect feedback, feature requests, great ideas, and more! We believe in building GitBook with **you**—and launching this repository allows us to bridge this gap, letting you to participate in shaping the direction and quality of our product while giving our community better visibility into the feedback we receive.
 
