@@ -1,3 +1,5 @@
+<img src="assets/gitbook_icon_dark.svg" alt="GitBook" width="48" />
+
 # GitBook Community
 
 ### Welcome to GitBook's official community!
@@ -6,14 +8,20 @@ We've created this space to collect feedback, feature requests, great ideas, and
 
 This community is separated into different categories, to help us organize discussions between you, our community, and the GitBook team.
 
-| Category                                                                                                                  | Description                                              |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [🔔 Announcements](https://github.com/GitbookIO/community/discussions/categories/announcements)                           | Product updates, releases, and other important news.     |
-| [💬 General](https://github.com/GitbookIO/community/discussions/categories/general)                                       | A place to chat all things GitBook.                      |
-| [📜 Documentation Improvements](https://github.com/GitbookIO/community/discussions/categories/documentation-improvements) | Let us know how we can improve https://gitbook.com/docs. |
-| [💡 Ideas & Feature Requests](https://github.com/GitbookIO/community/discussions/categories/ideas-feature-requests)       | Feature requests and product ideas.                      |
-| [🏆 Showcase](https://github.com/GitbookIO/community/discussions/categories/showcase)                                     | Have something to share? Show us here!                   |
+| Category                                                                                                                   | Description                                                             |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Announcements](https://github.com/GitbookIO/community/discussions/categories/announcements)                               | Product updates, releases, and other important news.                    |
+| [Feature Requests](https://github.com/GitbookIO/community/discussions/categories/feature-requests)                         | Feature requests and product ideas.                                     |
+| [New in GitBook](https://github.com/GitbookIO/community/discussions/categories/new-in-gitbook)                             | See what's new in the latest GitBook releases.                          |
+| [Show and Tell](https://github.com/GitbookIO/community/discussions/categories/show-and-tell)                               | Have something to share? Show us here!                                  |
+| [Help](https://github.com/GitbookIO/community/discussions/categories/help)                                                 | Get help from the GitBook team and community, organized by topic below. |
+| ↳ [General bugs and questions](https://github.com/GitbookIO/community/discussions/categories/0-general-bugs-and-questions) | General bugs, questions, and troubleshooting.                           |
+| ↳ [How to](https://github.com/GitbookIO/community/discussions/categories/1-how-to)                                         | How-to guides and best practices.                                       |
+| ↳ [Published content](https://github.com/GitbookIO/community/discussions/categories/2-published-content)                   | Questions about your published documentation.                           |
+| ↳ [Git Sync](https://github.com/GitbookIO/community/discussions/categories/3-git-sync)                                     | Questions about syncing GitBook with Git.                               |
+| ↳ [Open API](https://github.com/GitbookIO/community/discussions/categories/4-open-api)                                     | Questions about OpenAPI and API references.                             |
+| ↳ [Export](https://github.com/GitbookIO/community/discussions/categories/5-export)                                         | Questions about exporting content from GitBook.                         |
 
-If you'd like to learn more about the product, make sure to visit [our docs](https://gitbook.com/docs).
-
-> Disclaimer: Please note that this is not our official support channel. If you encounter any bugs or issues, we strongly encourage you to contact [support@gitbook.com](mailto:support@gitbook.com).
+> Looking for something else? Head to [our docs](https://gitbook.com/docs) or try asking [GitBook Assistant](https://gitbook.com/docs?ask=).
+>
+> Still stuck? [Send our support team a message](https://gitbook.com/docs/help-center/further-help/how-do-i-contact-support).
